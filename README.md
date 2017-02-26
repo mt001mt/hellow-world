@@ -1,3 +1,3 @@
 # hellow-world
-My second repoditory.
+My second repository.
 Hellow World! MT here!
