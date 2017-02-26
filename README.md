@@ -1,4 +1,4 @@
 # hellow-world
 My second repository.
-add a line!
+Add a new line.
 Hellow World! MT here!
